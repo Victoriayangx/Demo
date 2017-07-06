@@ -8,4 +8,8 @@ public class User {
 
     private String id;
     private String name;
+    public String count;
+    public String status;
+    public String label;
+    public String sumAmount;
 }
